@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/health.dart';
+import 'package:flutter_application_1/view/Home.dart';
+import 'package:flutter_application_1/view/result.dart';
 
 void main() {
   runApp(const MainApp());
